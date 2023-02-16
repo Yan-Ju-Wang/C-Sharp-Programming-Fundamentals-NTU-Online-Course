@@ -1,0 +1,16 @@
+C:\Users\user\source\csharp361\Lab5App\Lab5App\bin\Debug\net5.0\Lab5App.exe
+C:\Users\user\source\csharp361\Lab5App\Lab5App\bin\Debug\net5.0\Lab5App.deps.json
+C:\Users\user\source\csharp361\Lab5App\Lab5App\bin\Debug\net5.0\Lab5App.runtimeconfig.json
+C:\Users\user\source\csharp361\Lab5App\Lab5App\bin\Debug\net5.0\Lab5App.runtimeconfig.dev.json
+C:\Users\user\source\csharp361\Lab5App\Lab5App\bin\Debug\net5.0\Lab5App.dll
+C:\Users\user\source\csharp361\Lab5App\Lab5App\bin\Debug\net5.0\ref\Lab5App.dll
+C:\Users\user\source\csharp361\Lab5App\Lab5App\bin\Debug\net5.0\Lab5App.pdb
+C:\Users\user\source\csharp361\Lab5App\Lab5App\obj\Debug\net5.0\Lab5App.csproj.AssemblyReference.cache
+C:\Users\user\source\csharp361\Lab5App\Lab5App\obj\Debug\net5.0\Lab5App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\csharp361\Lab5App\Lab5App\obj\Debug\net5.0\Lab5App.AssemblyInfoInputs.cache
+C:\Users\user\source\csharp361\Lab5App\Lab5App\obj\Debug\net5.0\Lab5App.AssemblyInfo.cs
+C:\Users\user\source\csharp361\Lab5App\Lab5App\obj\Debug\net5.0\Lab5App.csproj.CoreCompileInputs.cache
+C:\Users\user\source\csharp361\Lab5App\Lab5App\obj\Debug\net5.0\Lab5App.dll
+C:\Users\user\source\csharp361\Lab5App\Lab5App\obj\Debug\net5.0\ref\Lab5App.dll
+C:\Users\user\source\csharp361\Lab5App\Lab5App\obj\Debug\net5.0\Lab5App.pdb
+C:\Users\user\source\csharp361\Lab5App\Lab5App\obj\Debug\net5.0\Lab5App.genruntimeconfig.cache

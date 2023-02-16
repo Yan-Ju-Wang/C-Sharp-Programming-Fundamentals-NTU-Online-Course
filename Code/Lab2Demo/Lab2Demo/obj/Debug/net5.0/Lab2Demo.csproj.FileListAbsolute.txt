@@ -1,0 +1,16 @@
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\bin\Debug\net5.0\Lab2Demo.exe
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\bin\Debug\net5.0\Lab2Demo.deps.json
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\bin\Debug\net5.0\Lab2Demo.runtimeconfig.json
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\bin\Debug\net5.0\Lab2Demo.runtimeconfig.dev.json
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\bin\Debug\net5.0\Lab2Demo.dll
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\bin\Debug\net5.0\ref\Lab2Demo.dll
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\bin\Debug\net5.0\Lab2Demo.pdb
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\obj\Debug\net5.0\Lab2Demo.csproj.AssemblyReference.cache
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\obj\Debug\net5.0\Lab2Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\obj\Debug\net5.0\Lab2Demo.AssemblyInfoInputs.cache
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\obj\Debug\net5.0\Lab2Demo.AssemblyInfo.cs
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\obj\Debug\net5.0\Lab2Demo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\obj\Debug\net5.0\Lab2Demo.dll
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\obj\Debug\net5.0\ref\Lab2Demo.dll
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\obj\Debug\net5.0\Lab2Demo.pdb
+C:\Users\user\source\csharp361\Lab2Demo\Lab2Demo\obj\Debug\net5.0\Lab2Demo.genruntimeconfig.cache

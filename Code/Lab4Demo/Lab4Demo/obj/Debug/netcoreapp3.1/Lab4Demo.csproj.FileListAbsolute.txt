@@ -1,0 +1,14 @@
+E:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\C-Sharp-Programming-Fundamentals-NTU-Online-Course\Code\Lab4Demo\Lab4Demo\bin\Debug\netcoreapp3.1\Lab4Demo.exe
+E:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\C-Sharp-Programming-Fundamentals-NTU-Online-Course\Code\Lab4Demo\Lab4Demo\bin\Debug\netcoreapp3.1\Lab4Demo.deps.json
+E:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\C-Sharp-Programming-Fundamentals-NTU-Online-Course\Code\Lab4Demo\Lab4Demo\bin\Debug\netcoreapp3.1\Lab4Demo.runtimeconfig.json
+E:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\C-Sharp-Programming-Fundamentals-NTU-Online-Course\Code\Lab4Demo\Lab4Demo\bin\Debug\netcoreapp3.1\Lab4Demo.runtimeconfig.dev.json
+E:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\C-Sharp-Programming-Fundamentals-NTU-Online-Course\Code\Lab4Demo\Lab4Demo\bin\Debug\netcoreapp3.1\Lab4Demo.dll
+E:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\C-Sharp-Programming-Fundamentals-NTU-Online-Course\Code\Lab4Demo\Lab4Demo\bin\Debug\netcoreapp3.1\Lab4Demo.pdb
+E:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\C-Sharp-Programming-Fundamentals-NTU-Online-Course\Code\Lab4Demo\Lab4Demo\obj\Debug\netcoreapp3.1\Lab4Demo.csproj.AssemblyReference.cache
+E:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\C-Sharp-Programming-Fundamentals-NTU-Online-Course\Code\Lab4Demo\Lab4Demo\obj\Debug\netcoreapp3.1\Lab4Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\C-Sharp-Programming-Fundamentals-NTU-Online-Course\Code\Lab4Demo\Lab4Demo\obj\Debug\netcoreapp3.1\Lab4Demo.AssemblyInfoInputs.cache
+E:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\C-Sharp-Programming-Fundamentals-NTU-Online-Course\Code\Lab4Demo\Lab4Demo\obj\Debug\netcoreapp3.1\Lab4Demo.AssemblyInfo.cs
+E:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\C-Sharp-Programming-Fundamentals-NTU-Online-Course\Code\Lab4Demo\Lab4Demo\obj\Debug\netcoreapp3.1\Lab4Demo.csproj.CoreCompileInputs.cache
+E:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\C-Sharp-Programming-Fundamentals-NTU-Online-Course\Code\Lab4Demo\Lab4Demo\obj\Debug\netcoreapp3.1\Lab4Demo.dll
+E:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\C-Sharp-Programming-Fundamentals-NTU-Online-Course\Code\Lab4Demo\Lab4Demo\obj\Debug\netcoreapp3.1\Lab4Demo.pdb
+E:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\C-Sharp-Programming-Fundamentals-NTU-Online-Course\Code\Lab4Demo\Lab4Demo\obj\Debug\netcoreapp3.1\Lab4Demo.genruntimeconfig.cache

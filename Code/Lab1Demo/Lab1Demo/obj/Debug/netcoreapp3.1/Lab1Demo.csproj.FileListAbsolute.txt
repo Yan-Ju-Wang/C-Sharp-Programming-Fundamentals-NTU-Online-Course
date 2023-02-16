@@ -1,0 +1,13 @@
+C:\Users\user\source\csharp335\Lab1Demo\Lab1Demo\bin\Debug\netcoreapp3.1\Lab1Demo.exe
+C:\Users\user\source\csharp335\Lab1Demo\Lab1Demo\bin\Debug\netcoreapp3.1\Lab1Demo.deps.json
+C:\Users\user\source\csharp335\Lab1Demo\Lab1Demo\bin\Debug\netcoreapp3.1\Lab1Demo.runtimeconfig.json
+C:\Users\user\source\csharp335\Lab1Demo\Lab1Demo\bin\Debug\netcoreapp3.1\Lab1Demo.runtimeconfig.dev.json
+C:\Users\user\source\csharp335\Lab1Demo\Lab1Demo\bin\Debug\netcoreapp3.1\Lab1Demo.dll
+C:\Users\user\source\csharp335\Lab1Demo\Lab1Demo\bin\Debug\netcoreapp3.1\Lab1Demo.pdb
+C:\Users\user\source\csharp335\Lab1Demo\Lab1Demo\obj\Debug\netcoreapp3.1\Lab1Demo.csprojAssemblyReference.cache
+C:\Users\user\source\csharp335\Lab1Demo\Lab1Demo\obj\Debug\netcoreapp3.1\Lab1Demo.AssemblyInfoInputs.cache
+C:\Users\user\source\csharp335\Lab1Demo\Lab1Demo\obj\Debug\netcoreapp3.1\Lab1Demo.AssemblyInfo.cs
+C:\Users\user\source\csharp335\Lab1Demo\Lab1Demo\obj\Debug\netcoreapp3.1\Lab1Demo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\csharp335\Lab1Demo\Lab1Demo\obj\Debug\netcoreapp3.1\Lab1Demo.dll
+C:\Users\user\source\csharp335\Lab1Demo\Lab1Demo\obj\Debug\netcoreapp3.1\Lab1Demo.pdb
+C:\Users\user\source\csharp335\Lab1Demo\Lab1Demo\obj\Debug\netcoreapp3.1\Lab1Demo.genruntimeconfig.cache

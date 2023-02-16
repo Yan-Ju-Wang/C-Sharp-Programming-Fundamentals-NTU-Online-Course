@@ -1,0 +1,54 @@
+R:\test\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.exe
+R:\test\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.deps.json
+R:\test\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.runtimeconfig.json
+R:\test\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.runtimeconfig.dev.json
+R:\test\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.dll
+R:\test\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.pdb
+R:\test\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.csprojAssemblyReference.cache
+R:\test\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.AssemblyInfoInputs.cache
+R:\test\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.AssemblyInfo.cs
+R:\test\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.csproj.CoreCompileInputs.cache
+R:\test\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.dll
+R:\test\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.pdb
+R:\test\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.genruntimeconfig.cache
+C:\Users\user\Downloads\Lab3Demo\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.exe
+C:\Users\user\Downloads\Lab3Demo\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.deps.json
+C:\Users\user\Downloads\Lab3Demo\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.runtimeconfig.json
+C:\Users\user\Downloads\Lab3Demo\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.runtimeconfig.dev.json
+C:\Users\user\Downloads\Lab3Demo\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.dll
+C:\Users\user\Downloads\Lab3Demo\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.pdb
+C:\Users\user\Downloads\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.AssemblyInfo.cs
+C:\Users\user\Downloads\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.dll
+C:\Users\user\Downloads\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.pdb
+C:\Users\user\Downloads\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.genruntimeconfig.cache
+R:\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.dll
+R:\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.pdb
+R:\Lab3Demo\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.exe
+R:\Lab3Demo\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.deps.json
+R:\Lab3Demo\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.runtimeconfig.json
+R:\Lab3Demo\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.runtimeconfig.dev.json
+R:\Lab3Demo\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.dll
+R:\Lab3Demo\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.pdb
+R:\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.csproj.AssemblyReference.cache
+R:\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.GeneratedMSBuildEditorConfig.editorconfig
+R:\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.AssemblyInfoInputs.cache
+R:\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.AssemblyInfo.cs
+R:\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.csproj.CoreCompileInputs.cache
+R:\Lab3Demo\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.genruntimeconfig.cache
+D:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\Code\作業參考解答\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.exe
+D:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\Code\作業參考解答\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.deps.json
+D:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\Code\作業參考解答\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.runtimeconfig.json
+D:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\Code\作業參考解答\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.runtimeconfig.dev.json
+D:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\Code\作業參考解答\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.dll
+D:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\Code\作業參考解答\Lab3Demo\bin\Debug\netcoreapp3.1\Lab3Demo.pdb
+D:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\Code\作業參考解答\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.csproj.AssemblyReference.cache
+D:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\Code\作業參考解答\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\Code\作業參考解答\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.AssemblyInfoInputs.cache
+D:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\Code\作業參考解答\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.AssemblyInfo.cs
+D:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\Code\作業參考解答\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.csproj.CoreCompileInputs.cache
+D:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\Code\作業參考解答\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.dll
+D:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\Code\作業參考解答\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.pdb
+D:\台大資訊系統訓練班\C# 程式設計基礎班 [線上課程]\Code\作業參考解答\Lab3Demo\obj\Debug\netcoreapp3.1\Lab3Demo.genruntimeconfig.cache
