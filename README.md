@@ -1,8 +1,12 @@
 # C-Sharp-Programming-Fundamentals-NTU-Online-Course
 臺大資訊系統訓練班課程
+
 ![image](https://github.com/Yan-Ju-Wang/C-Sharp-Programming-Fundamentals-NTU-Online-Course/assets/125424141/d72fc83b-2827-41b1-b59d-5fe342dcdfd0)
+
 課程大綱
+
 一、基礎程式設計
+
 0. 預備知識：計算機模型 (computation model)、安裝Visual Studio Community、第一隻C#程式
 1. 資料型態、變數、運算子 (data types, variables, and operators)
 2. 流程控制：條件敘述、迴圈 (branching & loops)
