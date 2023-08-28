@@ -12,11 +12,13 @@
 2. 流程控制：條件敘述、迴圈 (branching & loops)
 
 -- 演算法分析 (analysis of algorithms)
+
 3. 陣列與資料結構簡介 (arrays & more data structures)
 
 -- 排序演算法 (sorting algorithms)
 
 -- 二元搜尋法 (binary search)
+
 4. 方法與遞迴 (method & recursion)
 
 二、物件導向設計
